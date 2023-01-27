@@ -5,7 +5,7 @@ This is a Projekt for Captive Portal Attacks. I advise you to use Wifipumpkin3 i
 I must remind you that these types of attacks are illegal. Not only because you are stealing people's data but also because my captive portals are imitations of big companies. Take my Google Captive portal, there is a big logo of google which is against the trademark law.
 
 * Install Wifipumpkin3 https://github.com/P0cL4bs/wifipumpkin3
-* Download the (e.g.) google.zip and google.py 
+* Download the google.zip and google.py 
 * And now you can create a custom captiveflask normally with my .zip If you don't know how to do this here is an explanation: https://wifipumpkin3.github.io/docs/getting-started
 When you are on the page click on "Using the File Manager" and it is explained step by step
 
