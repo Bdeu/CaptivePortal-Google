@@ -8,11 +8,9 @@ I must remind you that these types of attacks are illegal. Not only because you 
 * Download the google.zip and google.py 
 * And now you can create a custom captiveflask normally with my .zip If you don't know how to do this here is an explanation: https://wifipumpkin3.github.io/docs/getting-started
 When you are on the page click on "Using the File Manager" and it is explained step by step
+* It is still in German so if you need English you need to change the code
 
 
 
 
 ![Google_pr](https://user-images.githubusercontent.com/123298316/213911933-70bfb6fa-fb57-43e3-a111-dba87a0695c4.PNG)
-* It is still in German so if you need English you need to change the code
-
-
